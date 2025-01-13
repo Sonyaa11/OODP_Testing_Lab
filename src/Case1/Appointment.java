@@ -29,4 +29,3 @@ public class Appointment {
 		System.out.println("Appointment ID: " + appointmentID + ", Date: " + appointmentDate + ", Time: " + appointmentTime);
 	}
 }
--
